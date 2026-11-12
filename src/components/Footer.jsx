@@ -1,6 +1,7 @@
+import { FaCopyright } from "react-icons/fa6";
 function Footer(){
     return <footer>
-        <div>this is footer</div>
+        <div> <span><FaCopyright/></span>this is footer</div>
     </footer>
 }
 export default Footer;
